@@ -1,0 +1,15 @@
+axiom 
+F
+constants 
+[]
+variables 
+F
+iterations 
+3
+angle 
+22.5
+rules
+FF-[-F+F+F]+[+F-F-F]
+positions
+-25
+25
