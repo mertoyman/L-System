@@ -3,10 +3,6 @@ lsystem
 
 Lindemayer's L-System (Plants)
 
-DIRECTORIES:
-
-1 - File Directory: src\examples\layer1\Lsystems\                                                                               2 - Configuration File: vc2010\layer1\config                                                                                    3 - My Shader: src\shaders\my_shader
-
 CONTROLS:
 
 F1-F6: Load in different L-Systems.
